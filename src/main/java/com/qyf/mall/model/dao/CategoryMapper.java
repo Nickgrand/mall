@@ -1,6 +1,6 @@
-package com.qyf.model.dao;
+package com.qyf.mall.model.dao;
 
-import com.qyf.model.pojo.Category;
+import com.qyf.mall.model.pojo.Category;
 
 public interface CategoryMapper {
     int deleteByPrimaryKey(Integer id);

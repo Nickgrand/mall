@@ -1,6 +1,6 @@
-package com.qyf.model.dao;
+package com.qyf.mall.model.dao;
 
-import com.qyf.model.pojo.Product;
+import com.qyf.mall.model.pojo.Product;
 
 public interface ProductMapper {
     int deleteByPrimaryKey(Integer id);

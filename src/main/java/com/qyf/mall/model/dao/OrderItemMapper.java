@@ -1,6 +1,6 @@
-package com.qyf.model.dao;
+package com.qyf.mall.model.dao;
 
-import com.qyf.model.pojo.OrderItem;
+import com.qyf.mall.model.pojo.OrderItem;
 
 public interface OrderItemMapper {
     int deleteByPrimaryKey(Integer id);

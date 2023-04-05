@@ -1,4 +1,4 @@
-package com.qyf.model.pojo;
+package com.qyf.mall.model.pojo;
 
 import java.util.Date;
 
